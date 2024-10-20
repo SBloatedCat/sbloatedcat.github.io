@@ -1,6 +1,5 @@
 +++
 date = '2024-10-20T15:15:55+03:00'
-draft = true
 title = 'My First Post'
 +++
 ## Introduction
